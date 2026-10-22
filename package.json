@@ -29,5 +29,10 @@
     "@red-cup-engineering/relation-model-notation-runtime": "workspace:*",
     "@red-cup-engineering/semantic-content-identify-service": "workspace:*",
     "@lenticule-science/witness-journal-rdf-projection-service": "workspace:*"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
